@@ -51,7 +51,7 @@ Just include `chef_rsyslog_server_setup` in your node's `run_list`:
 
 ## License and Authors
 
-Authors: adam.salowitz@gmail.com
+Authors: adam.salowitz+github@gmail.com
 
 License: [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
